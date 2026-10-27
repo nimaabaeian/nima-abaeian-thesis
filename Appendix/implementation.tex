@@ -1,0 +1,61 @@
+\chapter{Implementation Reference}
+\label{app:implementation}
+
+\section{Vision-module output}
+\label{app:vision-schema}
+
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \caption{Per-face schema published by the vision module on \texttt{landmarks:o}.}
+    \label{tab:vision-landmarks-schema}
+    \begin{tabular}{@{}>{\raggedright\arraybackslash}p{0.15\textwidth}>{\raggedright\arraybackslash}p{0.29\textwidth}>{\raggedright\arraybackslash}p{\dimexpr0.56\textwidth-4\tabcolsep\relax}@{}}
+        \toprule
+        \textbf{Group} & \textbf{Fields} & \textbf{Operational meaning} \\
+        \midrule
+        Identity and continuity & \texttt{face\_id}, \texttt{track\_id} & Recognised name or explicit unknown state, paired with the ByteTrack identifier used as the key for per-person state. \\
+        Image geometry & \texttt{bbox}, \texttt{zone}, \texttt{distance} & Expanded $(x,y,w,h)$ face box in pixels, five-bin horizontal position and four-bin apparent-proximity class. \\
+        Head pose & \texttt{gaze\_direction}, \texttt{pitch}, \texttt{yaw}, \texttt{roll}, \texttt{cos\_angle} & Head-forward unit vector, Euler angles in degrees and scalar alignment with the camera axis. \\
+        Behavioural state & \texttt{attention}, \texttt{is\_talking}, \texttt{time\_in\_view} & Camera-facing orientation class, binary lip-motion flag and wall-clock duration associated with the current track. \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+\section{Controller constants}
+\label{app:constants}
+
+\begingroup
+\footnotesize
+\ra{0.92}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{0.2\textwidth}>{\raggedright\arraybackslash}p{0.17\textwidth}>{\raggedright\arraybackslash}p{\dimexpr0.63\textwidth-4\tabcolsep\relax}@{}}
+    \caption{Controller constants and the reasoning behind each.}\label{tab:parameter-rationale}\\
+    \toprule
+    \textbf{Parameter} & \textbf{Value} & \textbf{Rationale} \\
+    \midrule
+    \endfirsthead
+    \toprule
+    \textbf{Parameter} & \textbf{Value} & \textbf{Rationale} \\
+    \midrule
+    \endhead
+    \bottomrule
+    \endfoot
+        Passive depletion & 100 points in 4~h & An unfed robot leaves Full after 1.6~h and enters Starving after 3~h, so every 10:00--16:00 session can expose caregivers to all three states. \\
+        State boundaries & 60 and 25 & Hungry spans 1.4~h of passive drain in which need can be voiced before it turns critical; Starving leaves 1~h before depletion. \\
+        Meal sizes & 10, 25, 45 & One large meal restores Full from any level of 15 or more; a medium meal moves the resource by most of a state band; a small meal only tops it up. \\
+        Action costs & 0.8--3.6 points & Scaled to verbal load. A full conversational turn equals about 9~min of passive drain, so talk depletes faster than idling without overwhelming the passive drain. \\
+        Feeding wait & 8~s, one retry & Long enough to pick up and show a card, while bounding a request to about 16~s of the interlocutor's time. \\
+        Meal cooldown & 3~s & Stops a card held in view from registering as several meals. \\
+        IPS weights & 0.50, 0.15, 0.50 & Proximity and camera-facing orientation signal readiness to interact and weigh equally; centricity breaks ties. \\
+        Social-state thresholds & 0.80, 0.65, 0.70, 0.85 & Strangers face the strictest hurdle, known but ungreeted people the lowest, and people already talked with are re-approached only when highly salient. \\
+        Affinity gain and floor & 0.15, 0.50 & Maximal affinity lowers the Recognised threshold exactly to the floor, which keeps a frequent feeder from triggering approaches on perceptual noise. \\
+        Habituation rate & 0.06~s$^{-1}$ & Half-life of 11.6~s, applied only after the 5~s dwell, so a sustained target yields to a competitor within tens of seconds. \\
+        Hysteresis and dwell & 0.10, 5~s & Suppress gaze switching between near-equal candidates. \\
+        Context cooldowns & 3, 15, 5~s & Frequent approaches in a lively room, sparse ones in a calm room, an intermediate default otherwise. \\
+        Reward scale & 25 & One medium meal maps to the maximal affinity target. \\
+        Neutral band & 0.2 & Interactions whose credited outcome is near zero leave affinity unchanged. \\
+        Learning rates & 0.25, 0.10 & Negative evidence is integrated more slowly, so a person becomes an energy sink only through repeated unrewarded approaches. \\
+        Penalty floor & $-0.3$ & Bounds the cost of a single ignored approach. \\
+        Remote dwell and staleness & 60~s, 60~s & Prevent notification bursts when the level oscillates at a boundary, and silence the channel when state updates stop. \\
+        Remote trust and priority & 3 interactions, 0.20 & Only people with at least three recorded interactions and affinity above 0.20 enter targeted Hungry outreach. \\
+\end{longtable}
+\endgroup

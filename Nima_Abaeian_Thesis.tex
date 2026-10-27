@@ -1,0 +1,107 @@
+\documentclass[oneside,12pt]{Classes/RoboticsLaTeX}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{longtable}
+\usepackage{needspace}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+
+% Tracked statistics snapshot for Chapters 4--6.
+\input{Statistics/thesis_values}
+
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+% Float placement, applied to every chapter
+\renewcommand{\topfraction}{0.95}\renewcommand{\bottomfraction}{0.9}\renewcommand{\textfraction}{0.08}\renewcommand{\floatpagefraction}{0.75}
+\DeclareMathOperator*{\argmax}{argmax}
+
+\ifpdf
+    \pdfinfo {/Title (Internal Drive-Guided Embodied Behaviour Architecture for the Always-On Social Robot)
+              /Creator (TeX)
+              /Producer (pdfTeX)
+              /Author (Nima Abaeian)
+              /CreationDate (D:20141024182500) %format D:YYYYMMDDhhmmss
+              /ModDate (20141024182500)
+              /Subject (Master Thesis)
+              /Keywords (Master Thesis, Robotics Engineering, Embodied Behaviour Architecture, Homeostasis, Orexigenic Drive, iCub)}
+    \pdfcatalog {/PageMode (/UseOutlines)
+                 /OpenAction (fitbh) }
+    \hypersetup{pdftitle={Internal Drive-Guided Embodied Behaviour Architecture for the Always-On Social Robot},
+                pdfauthor={Nima Abaeian},
+                pdfsubject={Master Thesis},
+                pdfkeywords={Master Thesis, Robotics Engineering, Embodied Behaviour Architecture, Homeostasis, Orexigenic Drive, iCub}}
+\fi
+
+
+
+
+\title{\huge Internal Drive-Guided Embodied\\
+\huge Behaviour Architecture for the\\
+\huge Always-On Social Robot}
+
+\ifpdf
+  \author{Nima Abaeian}
+  \collegeordept{\myhlink{http://www.dibris.unige.it}{DIBRIS - Department of Computer Science, Bioengineering, Robotics and System Engineering}}
+  \university{\myhlink{http://www.unige.it}{University of Genova}}
+  \supervisors{
+  	  F. Rea, D. Pasquali, A. Sciutti, F. Mastrogiovanni
+  	}
+  \crest{\includegraphics[width=55mm]{logo_unige}}
+\else
+  \author{Nima Abaeian}
+  \collegeordept{DIBRIS - Department of Computer Science, Bioengineering, Robotics and System Engineering}
+  \university{University of Genova}
+  \supervisors{
+  	  F. Rea, D. Pasquali, A. Sciutti, F. Mastrogiovanni
+  	}
+  \crest{\includegraphics[width=55mm]{logo_unige}}
+\fi
+
+
+
+\degree{Laurea Magistrale in Robotics Engineering}
+\degreedate{}
+
+\begin{document}
+
+\hypersetup{pageanchor=false}
+\maketitle
+
+\newpage
+\hypersetup{pageanchor=true}
+
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{1}
+
+\frontmatter
+\include{Originality/originality}
+\include{Acknowledgement/acknowledgement}
+% \include{Dedication/dedication}  % empty page, omitted until a dedication is written
+\include{Abstract/abstract}
+
+\tableofcontents
+\listoffigures
+\listoftables
+\input{Acronyms/acronyms}
+
+\mainmatter
+\include{Introduction/introduction}
+\include{StateOfArt/state_of_art}
+\include{Methodology/methodology}
+\include{Results/results}
+\include{Discussion/discussion}
+\include{Conclusions/conclusions}
+
+\appendix
+\include{Appendix/appendix}
+
+\bibliographystyle{Classes/RoboticsBiblio}
+\renewcommand{\bibname}{References}
+\setlength{\bibsep}{3pt plus 1pt}
+\clearpage
+\phantomsection
+\addcontentsline{toc}{chapter}{References}
+{\small\bibliography{references}}
+
+\end{document}

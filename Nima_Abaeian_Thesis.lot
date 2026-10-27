@@ -1,0 +1,20 @@
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Principal functional layers of the embodied behaviour architecture.}}{28}{table.3.1}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Perception, identity and embodied gaze parameters.}}{30}{table.3.2}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Variables of the feeding model of Equation~\ref {eq:feeding-glmm}.}}{43}{table.3.3}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Recorded evidence by experimental phase.}}{45}{table.4.1}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Nominal meal choice by hunger state immediately before the feeding event.}}{50}{table.4.2}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Semantic-differential domain scores.}}{55}{table.4.3}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Perceptions of hunger and environmental integration.}}{57}{table.4.4}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {D.1}{\ignorespaces Per-face schema published by the vision module on \texttt {landmarks:o}.}}{75}{table.D.1}%
+\contentsline {table}{\numberline {D.2}{Controller constants and the reasoning behind each.}}{75}{table.D.2}%

@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2025/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Nima_Abaeian_Thesis.aux
+A level-1 auxiliary file: Originality/originality.aux
+A level-1 auxiliary file: Acknowledgement/acknowledgement.aux
+A level-1 auxiliary file: Abstract/abstract.aux
+A level-1 auxiliary file: Introduction/introduction.aux
+A level-1 auxiliary file: StateOfArt/state_of_art.aux
+A level-1 auxiliary file: Methodology/methodology.aux
+A level-1 auxiliary file: Results/results.aux
+A level-1 auxiliary file: Discussion/discussion.aux
+A level-1 auxiliary file: Conclusions/conclusions.aux
+A level-1 auxiliary file: Appendix/appendix.aux
+The style file: Classes/RoboticsBiblio.bst
+Database file #1: references.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 94 entries,
+            3018 wiz_defined-function locations,
+            1272 strings with 30099 characters,
+and the built_in function-call counts, 69016 in all, are:
+= -- 5721
+> -- 3813
+< -- 23
++ -- 1379
+- -- 1239
+* -- 5952
+:= -- 10214
+add.period$ -- 279
+call.type$ -- 94
+change.case$ -- 937
+chr.to.int$ -- 94
+cite$ -- 94
+duplicate$ -- 4720
+empty$ -- 4616
+format.name$ -- 1521
+if$ -- 13778
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 998
+newline$ -- 286
+num.names$ -- 380
+pop$ -- 2175
+preamble$ -- 1
+purify$ -- 787
+quote$ -- 0
+skip$ -- 1845
+stack$ -- 0
+substring$ -- 3016
+swap$ -- 2698
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 840
+warning$ -- 0
+while$ -- 450
+width$ -- 0
+write$ -- 1062

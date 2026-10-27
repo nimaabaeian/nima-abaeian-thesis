@@ -1,0 +1,623 @@
+\begin{thebibliography}{94}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Abad-Moya {\em et~al.\/}(2026)Abad-Moya, {Gonz{\'a}lez
+  Fern{\'a}ndez}, {Guti{\'e}rrez-Fern{\'a}ndez}, {Rodr{\'i}guez Lera} \&
+  {Fern{\'a}ndez-Llamas}}]{AbadMoya2026Initiation}
+{\sc Abad-Moya, C., {Gonz{\'a}lez Fern{\'a}ndez}, I.,
+  {Guti{\'e}rrez-Fern{\'a}ndez}, A., {Rodr{\'i}guez Lera}, F.J. \&
+  {Fern{\'a}ndez-Llamas}, C.} (2026). How do humans attempt to initiate
+  interaction with a robot? an exploratory study on multimodal engagement. In
+  {\em Companion Proceedings of the 21st ACM/IEEE International Conference on
+  Human-Robot Interaction\/}, 351--355, ACM, New York, NY.
+
+\bibitem[{Admoni \& Scassellati(2017)}]{Admoni2017SocialEyeGaze}
+{\sc Admoni, H. \& Scassellati, B.} (2017). Social eye gaze in human-robot
+  interaction: A review. {\em Journal of Human-Robot Interaction\/}, {\bf 6},
+  25--63.
+
+\bibitem[{Ahmad {\em et~al.\/}(2017)Ahmad, Mubin \&
+  Orlando}]{Ahmad2017Adaptivity}
+{\sc Ahmad, M., Mubin, O. \& Orlando, J.} (2017). A systematic review of
+  adaptivity in human-robot interaction. {\em Multimodal Technologies and
+  Interaction\/}, {\bf 1}, 14.
+
+\bibitem[{Allgeuer {\em et~al.\/}(2024)Allgeuer, Ali \&
+  Wermter}]{Allgeuer2024Chatty}
+{\sc Allgeuer, P., Ali, H. \& Wermter, S.} (2024). When robots get chatty:
+  Grounding multimodal human-robot conversation and collaboration. In {\em
+  Artificial Neural Networks and Machine Learning -- ICANN 2024\/}, Lecture
+  Notes in Computer Science, 306--321, Springer Nature Switzerland.
+
+\bibitem[{Bartneck {\em et~al.\/}(2009)Bartneck, Kuli\'c, Croft \&
+  Zoghbi}]{Bartneck2009Godspeed}
+{\sc Bartneck, C., Kuli\'c, D., Croft, E. \& Zoghbi, S.} (2009). Measurement
+  instruments for the anthropomorphism, animacy, likeability, perceived
+  intelligence, and perceived safety of robots. {\em International Journal of
+  Social Robotics\/}, {\bf 1}, 71--81.
+
+\bibitem[{Berto {\em et~al.\/}(2025)Berto, Tanevska, Cirne, Costa, Sim{\~o}es,
+  Gudwin, Rea, Colombini \& Sciutti}]{Berto2025CuriosityAffect}
+{\sc Berto, L., Tanevska, A., Cirne, A., Costa, P., Sim{\~o}es, A., Gudwin, R.,
+  Rea, F., Colombini, E. \& Sciutti, A.} (2025). Curiosity and affect-driven
+  cognitive architecture for hri. {\em IEEE Transactions on Affective
+  Computing\/}, 1--18.
+
+\bibitem[{Bettinger \&
+  Friston(2023)}]{BettingerFriston2023PhysiologicalRegulation}
+{\sc Bettinger, J.S. \& Friston, K.J.} (2023). Conceptual foundations of
+  physiological regulation incorporating the free energy principle and
+  self-organized criticality. {\em Neuroscience and Biobehavioral Reviews\/},
+  {\bf 155}, 105459.
+
+\bibitem[{Breazeal(2003)}]{Breazeal2003Emotion}
+{\sc Breazeal, C.} (2003). Emotion and sociable humanoid robots. {\em
+  International Journal of Human-Computer Studies\/}, {\bf 59}, 119--155.
+
+\bibitem[{Cannon(1929)}]{Cannon1929Homeostasis}
+{\sc Cannon, W.B.} (1929). Organization for physiological homeostasis. {\em
+  Physiological Reviews\/}, {\bf 9}, 399--431.
+
+\bibitem[{Cao {\em et~al.\/}(2017a)Cao, {G{\'o}mez Esteban}, {De Beir}, Simut,
+  {Van de Perre}, Lefeber \& Vanderborght}]{Cao2017CollaborativeHomeostatic}
+{\sc Cao, H.L., {G{\'o}mez Esteban}, P., {De Beir}, A., Simut, R., {Van de
+  Perre}, G., Lefeber, D. \& Vanderborght, B.} (2017a). A collaborative
+  homeostatic-based behavior controller for social robots in human--robot
+  interaction experiments. {\em International Journal of Social Robotics\/},
+  {\bf 9}, 675--690.
+
+\bibitem[{Cao {\em et~al.\/}(2017b)Cao, De~Beir, G{\'o}mez~Esteban, Simut, {Van
+  de Perre}, Lefeber \& Vanderborght}]{Cao2017EndUserHomeostatic}
+{\sc Cao, H.L., De~Beir, A., G{\'o}mez~Esteban, P., Simut, R., {Van de Perre},
+  G., Lefeber, D. \& Vanderborght, B.} (2017b). An end-user interface to
+  generate homeostatic behavior for {NAO} robot in robot-assisted social
+  therapies. In {\em Advances in Computational Intelligence\/}, 609--619,
+  Springer International Publishing.
+
+\bibitem[{Carminatti {\em et~al.\/}(2025)Carminatti, Tanevska, Antunes,
+  Tikhanoff, Sandini \& Rea}]{Carminatti2025Stress}
+{\sc Carminatti, L., Tanevska, A., Antunes, A., Tikhanoff, V., Sandini, G. \&
+  Rea, F.} (2025). Stress-inspired modulation of robotic deliberative
+  functions. {\em International Journal of Social Robotics\/}, {\bf 17},
+  3087--3101.
+
+\bibitem[{Carpinella {\em et~al.\/}(2017)Carpinella, Wyman, Perez \&
+  Stroessner}]{Carpinella2017RoSAS}
+{\sc Carpinella, C.M., Wyman, A.B., Perez, M.A. \& Stroessner, S.J.} (2017).
+  The robotic social attributes scale ({RoSAS}): Development and validation. In
+  {\em Proceedings of the 2017 ACM/IEEE International Conference on Human-Robot
+  Interaction\/}, 254--262.
+
+\bibitem[{Dautenhahn {\em et~al.\/}(2002)Dautenhahn, Ogden \&
+  Quick}]{Dautenhahn2002SociallyEmbedded}
+{\sc Dautenhahn, K., Ogden, B. \& Quick, T.} (2002). From embodied to socially
+  embedded agents: Implications for interaction-aware robots. {\em Cognitive
+  Systems Research\/}, {\bf 3}, 397--428.
+
+\bibitem[{{de Graaf} {\em et~al.\/}(2016){de Graaf}, {Ben Allouch} \& {van
+  Dijk}}]{DeGraaf2016LongTermAcceptance}
+{\sc {de Graaf}, M.M.A., {Ben Allouch}, S. \& {van Dijk}, J.A.G.M.} (2016).
+  Long-term acceptance of social robots in domestic environments: Insights from
+  a user's perspective. In {\em The 2016 AAAI Spring Symposium Series\/},
+  96--103, AAAI Press, Palo Alto, CA, 2016 AAAI Spring Symposium on Enabling
+  Computing Research in Socially Intelligent Human-Robot Interaction.
+
+\bibitem[{Deshmukh {\em et~al.\/}(2018)Deshmukh, Lohan, Rajendran \&
+  Aylett}]{Deshmukh2018Recharging}
+{\sc Deshmukh, A., Lohan, K.S., Rajendran, G. \& Aylett, R.} (2018). Social
+  impact of recharging activity in long-term {HRI} and verbal strategies to
+  manage user expectations during recharge. {\em Frontiers in Robotics and
+  AI\/}, {\bf 5}, 23.
+
+\bibitem[{{Di Paolo}(2003)}]{DiPaolo2003OrganismicallyInspired}
+{\sc {Di Paolo}, E.A.} (2003). Organismically-inspired robotics: Homeostatic
+  adaptation and teleology beyond the closed sensorimotor loop. In K.~Murase \&
+  T.~Asakura, eds., {\em Dynamical Systems Approach to Embodiment and
+  Sociality\/}, 19--42, Advanced Knowledge International.
+
+\bibitem[{Fiore {\em et~al.\/}(2013)Fiore, Wiltshire, Lobato, Jentsch, Huang \&
+  Axelrod}]{Fiore2013SocialCues}
+{\sc Fiore, S.M., Wiltshire, T.J., Lobato, E.J.C., Jentsch, F.G., Huang, W.H.
+  \& Axelrod, B.} (2013). Toward understanding social cues and signals in
+  human-robot interaction: Effects of robot gaze and proxemic behavior. {\em
+  Frontiers in Psychology\/}, {\bf 4}, 859.
+
+\bibitem[{Fischer {\em et~al.\/}(2018)Fischer, Puigb{\`o}, Camilleri, Nguyen,
+  Moulin-Frier, Lall{\'e}e, Metta, Prescott, Demiris \&
+  Verschure}]{Fischer2018ICubHRI}
+{\sc Fischer, T., Puigb{\`o}, J.Y., Camilleri, D., Nguyen, P.D.H.,
+  Moulin-Frier, C., Lall{\'e}e, S., Metta, G., Prescott, T.J., Demiris, Y. \&
+  Verschure, P.F.M.J.} (2018). {iCub-HRI}: A software framework for complex
+  human--robot interaction scenarios on the {iCub} humanoid robot. {\em
+  Frontiers in Robotics and AI\/}, {\bf 5}, 22.
+
+\bibitem[{Friston {\em et~al.\/}(2023)Friston, {Da Costa}, Sajid, Heins,
+  Ueltzh{\"o}ffer, Pavliotis \& Parr}]{Friston2023FreeEnergy}
+{\sc Friston, K., {Da Costa}, L., Sajid, N., Heins, C., Ueltzh{\"o}ffer, K.,
+  Pavliotis, G.A. \& Parr, T.} (2023). The free energy principle made simpler
+  but not too simple. {\em Physics Reports\/}, {\bf 1024}, 1--29.
+
+\bibitem[{Fusaro {\em et~al.\/}(2021)Fusaro, Lamon, {De Momi} \&
+  Ajoudani}]{Fusaro2021HumanAwareBT}
+{\sc Fusaro, F., Lamon, E., {De Momi}, E. \& Ajoudani, A.} (2021). A
+  human-aware method to plan complex cooperative and autonomous tasks using
+  behavior trees. In {\em 2020 IEEE-RAS 20th International Conference on
+  Humanoid Robots (Humanoids)\/}, 522--529, IEEE.
+
+\bibitem[{Garc{\'i}a-Mart{\'i}nez {\em et~al.\/}(2025)Garc{\'i}a-Mart{\'i}nez,
+  Maroto-G{\'o}mez, Segura-Bencomo, Castro-Gonz{\'a}lez \&
+  Castillo}]{GarciaMartinez2025BioinspiredStimulus}
+{\sc Garc{\'i}a-Mart{\'i}nez, J., Maroto-G{\'o}mez, M., Segura-Bencomo, A.,
+  Castro-Gonz{\'a}lez, {\'A}. \& Castillo, J.C.} (2025). Bioinspired stimulus
+  selection under multisensory overload in social robots using reinforcement
+  learning. {\em Sensors\/}, {\bf 25}, 6152.
+
+\bibitem[{Georgeon \& Ritter(2012)}]{GeorgeonRitter2012Schema}
+{\sc Georgeon, O.L. \& Ritter, F.E.} (2012). An intrinsically-motivated schema
+  mechanism to model and simulate emergent cognition. {\em Cognitive Systems
+  Research\/}, {\bf 15--16}, 73--92.
+
+\bibitem[{Ghamati {\em et~al.\/}(2025a)Ghamati, {Banitalebi Dehkordi}, {Rahimi
+  Nohooji}, Voos, Amirabdollahian \& Zaraki}]{Ghamati2025LearningToGaze}
+{\sc Ghamati, K., {Banitalebi Dehkordi}, M., {Rahimi Nohooji}, H., Voos, H.,
+  Amirabdollahian, F. \& Zaraki, A.} (2025a). Learning to gaze: Bio-inspired
+  attention adaptation strategy for social robots. {\em TechRxiv\/}, preprint
+  posted 26 October 2025.
+
+\bibitem[{Ghamati {\em et~al.\/}(2025b)Ghamati, {Banitalebi Dehkordi} \&
+  Zaraki}]{Ghamati2025PersonalisedLLM}
+{\sc Ghamati, K., {Banitalebi Dehkordi}, M. \& Zaraki, A.} (2025b). Towards
+  ai-powered applications: The development of a personalised {LLM} for {HRI}
+  and {HCI}. {\em Sensors\/}, {\bf 25}, 2024.
+
+\bibitem[{{Gonz{\'a}lez-Santamarta} {\em
+  et~al.\/}(2025){Gonz{\'a}lez-Santamarta}, {Rodr{\'i}guez-Lera},
+  {Fern{\'a}ndez-Llamas} \& Matellan-Olivera}]{GonzalezSantamarta2025Hybrid}
+{\sc {Gonz{\'a}lez-Santamarta}, M.{\'A}., {Rodr{\'i}guez-Lera}, F.J.,
+  {Fern{\'a}ndez-Llamas}, C. \& Matellan-Olivera, V.} (2025). A hybrid
+  cognitive architecture to generate, control, plan, and monitor behaviors for
+  interactive autonomous robots. {\em International Journal of Social
+  Robotics\/}, {\bf 17}, 3135--3151, published online 11 December 2024.
+
+\bibitem[{Guerrero-Rosado \&
+  Verschure(2021)}]{GuerreroRosado2021RegulatoryBehaviour}
+{\sc Guerrero-Rosado, O. \& Verschure, P.} (2021). Robot regulatory behaviour
+  based on fundamental homeostatic and allostatic principles. {\em Procedia
+  Computer Science\/}, {\bf 190}, 292--300.
+
+\bibitem[{Harnad(1990)}]{Harnad1990SymbolGrounding}
+{\sc Harnad, S.} (1990). The symbol grounding problem. {\em Physica D:
+  Nonlinear Phenomena\/}, {\bf 42}, 335--346.
+
+\bibitem[{He {\em et~al.\/}(2024)He, Chan, Cosgun, Joy \&
+  Croft}]{He2024RobotGaze}
+{\sc He, K., Chan, W.P., Cosgun, A., Joy, A. \& Croft, E.A.} (2024). Robot gaze
+  during autonomous navigation and its effect on social presence. {\em
+  International Journal of Social Robotics\/}, {\bf 16}, 879--897, published
+  online 23 June 2023.
+
+\bibitem[{Heikkinen {\em et~al.\/}(2024)Heikkinen, Silvennoinen, Khan,
+  Lemhaouri, Cohen, Ca{\~n}amero \& Lowe}]{Heikkinen2024MutualLearning}
+{\sc Heikkinen, E., Silvennoinen, E., Khan, I., Lemhaouri, Z., Cohen, L.,
+  Ca{\~n}amero, L. \& Lowe, R.} (2024). Human-robot mutual learning through
+  affective-linguistic interaction and differential outcomes training. In {\em
+  2024 12th International Conference on Affective Computing and Intelligent
+  Interaction Workshops and Demos (ACIIW)\/}, 323--330, IEEE.
+
+\bibitem[{Henschel {\em et~al.\/}(2020)Henschel, Hortensius \&
+  Cross}]{Henschel2020SocialCognition}
+{\sc Henschel, A., Hortensius, R. \& Cross, E.S.} (2020). Social cognition in
+  the age of human--robot interaction. {\em Trends in Neurosciences\/}, {\bf
+  43}, 373--384.
+
+\bibitem[{Hodson {\em et~al.\/}(2024)Hodson, Mehta \&
+  Smith}]{Hodson2024PredictiveCoding}
+{\sc Hodson, R., Mehta, M. \& Smith, R.} (2024). The empirical status of
+  predictive coding and active inference. {\em Neuroscience and Biobehavioral
+  Reviews\/}, {\bf 157}, 105473.
+
+\bibitem[{Hulme {\em et~al.\/}(2019)Hulme, Morville \&
+  Gutkin}]{Hulme2019HomeostaticControl}
+{\sc Hulme, O.J., Morville, T. \& Gutkin, B.} (2019). Neurocomputational
+  theories of homeostatic control. {\em Physics of Life Reviews\/}, {\bf 31},
+  214--232.
+
+\bibitem[{Kim {\em et~al.\/}(2024)Kim, Lee \& Mutlu}]{Kim2024LLMHRI}
+{\sc Kim, C.Y., Lee, C.P. \& Mutlu, B.} (2024). Understanding large-language
+  model ({LLM})-powered human-robot interaction. In {\em Proceedings of the
+  2024 ACM/IEEE International Conference on Human-Robot Interaction\/},
+  371--380, ACM.
+
+\bibitem[{Kim {\em et~al.\/}(2026)Kim, Park, Park, Lee \&
+  Jeon}]{Kim2026Streamlining}
+{\sc Kim, M., Park, J., Park, K., Lee, Y.J. \& Jeon, S.} (2026). Streamlining
+  human-robot interaction: Integrating llm-based planning into modular robotic
+  frameworks. {\em Sensors\/}, {\bf 26}, 1978.
+
+\bibitem[{{Lavit Nicora} {\em et~al.\/}(2024){Lavit Nicora}, Prajod,
+  Mondellini, Tauro, Vertechy, Andr{\'e} \&
+  Malosio}]{LavitNicora2024GazeDetection}
+{\sc {Lavit Nicora}, M., Prajod, P., Mondellini, M., Tauro, G., Vertechy, R.,
+  Andr{\'e}, E. \& Malosio, M.} (2024). Gaze detection as a social cue to
+  initiate natural human-robot collaboration in an assembly task. {\em
+  Frontiers in Robotics and AI\/}, {\bf 11}, 1394379.
+
+\bibitem[{Lemhaouri {\em et~al.\/}(2022)Lemhaouri, Cohen \&
+  Ca{\~n}amero}]{Lemhaouri2022CaregiverResponsiveness}
+{\sc Lemhaouri, Z., Cohen, L. \& Ca{\~n}amero, L.} (2022). The role of the
+  caregiver's responsiveness in affect-grounded language learning by a robot:
+  Architecture and first experiments. In {\em 2022 IEEE International
+  Conference on Development and Learning (ICDL)\/}, 349--354, IEEE.
+
+\bibitem[{Lewis \& Ca{\~n}amero(2016)}]{LewisCanamero2016Hedonic}
+{\sc Lewis, M. \& Ca{\~n}amero, L.} (2016). Hedonic quality or reward? a study
+  of basic pleasure in homeostasis and decision making of a motivated
+  autonomous robot. {\em Adaptive Behavior\/}, {\bf 24}, 267--291.
+
+\bibitem[{Markelius {\em et~al.\/}(2023)Markelius, Sj{\"o}berg, Lemhaouri,
+  Cohen, Bergstr{\"o}m, Lowe \& Ca{\~n}amero}]{Markelius2023MutualLearning}
+{\sc Markelius, A., Sj{\"o}berg, S., Lemhaouri, Z., Cohen, L., Bergstr{\"o}m,
+  M., Lowe, R. \& Ca{\~n}amero, L.} (2023). A human-robot mutual learning
+  system with affect-grounded language acquisition and differential outcomes
+  training.
+
+\bibitem[{Maroto-G{\'o}mez {\em et~al.\/}(2018)Maroto-G{\'o}mez,
+  Castro-Gonz{\'a}lez, Castillo, Malfaz \&
+  Salichs}]{MarotoGomez2018MotivationalDecision}
+{\sc Maroto-G{\'o}mez, M., Castro-Gonz{\'a}lez, {\'A}., Castillo, J.C., Malfaz,
+  M. \& Salichs, M.A.} (2018). A bio-inspired motivational decision making
+  system for social robots based on the perception of the user. {\em
+  Sensors\/}, {\bf 18}, 2691.
+
+\bibitem[{Maroto-G{\'o}mez {\em et~al.\/}(2023a)Maroto-G{\'o}mez,
+  Castro-Gonz{\'a}lez, Malfaz \& Salichs}]{MarotoGomez2023BiologicalDecision}
+{\sc Maroto-G{\'o}mez, M., Castro-Gonz{\'a}lez, {\'A}., Malfaz, M. \& Salichs,
+  M.{\'A}.} (2023a). A biologically inspired decision-making system for the
+  autonomous adaptive behavior of social robots. {\em Complex \& Intelligent
+  Systems\/}, {\bf 9}, 6661--6679.
+
+\bibitem[{Maroto-G{\'o}mez {\em et~al.\/}(2023b)Maroto-G{\'o}mez, Malfaz,
+  Castro-Gonz{\'a}lez \&
+  Salichs}]{MarotoGomez2023ArtificialBiologicalFunctions}
+{\sc Maroto-G{\'o}mez, M., Malfaz, M., Castro-Gonz{\'a}lez, {\'A}. \& Salichs,
+  M.{\'A}.} (2023b). A motivational model based on artificial biological
+  functions for the intelligent decision-making of social robots. {\em Memetic
+  Computing\/}, {\bf 15}, 237--257.
+
+\bibitem[{Maroto-G{\'o}mez {\em et~al.\/}(2023c)Maroto-G{\'o}mez, Malfaz,
+  Castro-Gonz{\'a}lez, Carrasco-Mart{\'i}nez \&
+  Salichs}]{MarotoGomez2023Circadian}
+{\sc Maroto-G{\'o}mez, M., Malfaz, M., Castro-Gonz{\'a}lez, {\'A}.,
+  Carrasco-Mart{\'i}nez, S. \& Salichs, M.{\'A}.} (2023c). Adaptive circadian
+  rhythms for autonomous and biologically inspired robot behavior. {\em
+  Biomimetics\/}, {\bf 8}, 413.
+
+\bibitem[{Maroto-G{\'o}mez {\em et~al.\/}(2024)Maroto-G{\'o}mez,
+  Burguete-Alventosa, {\'A}lvarez-Arias, Malfaz \&
+  Salichs}]{MarotoGomez2024Dopamine}
+{\sc Maroto-G{\'o}mez, M., Burguete-Alventosa, J., {\'A}lvarez-Arias, S.,
+  Malfaz, M. \& Salichs, M.{\'A}.} (2024). A bio-inspired dopamine model for
+  robots with autonomous decision-making. {\em Biomimetics\/}, {\bf 9}, 504.
+
+\bibitem[{Maroto-G{\'o}mez {\em et~al.\/}(2025)Maroto-G{\'o}mez,
+  {\'A}lvarez-Arias, Rodr{\'i}guez-Huelves, Segura-Bencomo \&
+  Malfaz}]{MarotoGomez2025RobotCompanion}
+{\sc Maroto-G{\'o}mez, M., {\'A}lvarez-Arias, S., Rodr{\'i}guez-Huelves, J.,
+  Segura-Bencomo, A. \& Malfaz, M.} (2025). A robot companion with adaptive
+  object preferences and emotional responses enhances naturalness in
+  human--robot interaction. {\em Electronics\/}, {\bf 14}, 3711.
+
+\bibitem[{Marquardt {\em et~al.\/}(2009)Marquardt, Young, Sharlin \&
+  Greenberg}]{Marquardt2009SituatedMessages}
+{\sc Marquardt, N., Young, J., Sharlin, E. \& Greenberg, S.} (2009). Situated
+  messages for asynchronous human-robot interaction. In {\em Proceedings of the
+  4th ACM/IEEE International Conference on Human-Robot Interaction\/},
+  301--302, ACM.
+
+\bibitem[{Matheus {\em et~al.\/}(2025)Matheus, Ramnauth, Scassellati \&
+  Salomons}]{Matheus2025LongTerm}
+{\sc Matheus, K., Ramnauth, R., Scassellati, B. \& Salomons, N.} (2025).
+  Long-term interactions with social robots: Trends, insights, and
+  recommendations. {\em ACM Transactions on Human-Robot Interaction\/}, {\bf
+  14}, 1--42.
+
+\bibitem[{Mauliana {\em et~al.\/}(2025)Mauliana, Ashok, Czernochowski \&
+  Berns}]{Mauliana2025MultiSession}
+{\sc Mauliana, M., Ashok, A., Czernochowski, D. \& Berns, K.} (2025). Exploring
+  llm-powered multi-session human-robot interactions with university students.
+  {\em Frontiers in Robotics and AI\/}, {\bf 12}, 1585589.
+
+\bibitem[{McClelland {\em et~al.\/}(1995)McClelland, McNaughton \&
+  O'Reilly}]{McClelland1995ComplementaryLearning}
+{\sc McClelland, J.L., McNaughton, B.L. \& O'Reilly, R.C.} (1995). Why there
+  are complementary learning systems in the hippocampus and neocortex: Insights
+  from the successes and failures of connectionist models of learning and
+  memory. {\em Psychological Review\/}, {\bf 102}, 419--457.
+
+\bibitem[{Metta {\em et~al.\/}(2006)Metta, Fitzpatrick \&
+  Natale}]{Metta2006YARP}
+{\sc Metta, G., Fitzpatrick, P. \& Natale, L.} (2006). {YARP}: Yet another
+  robot platform. {\em International Journal of Advanced Robotic Systems\/},
+  {\bf 3}, 43--48.
+
+\bibitem[{Metta {\em et~al.\/}(2010)Metta, Natale, Nori, Sandini, Vernon,
+  Fadiga, {von Hofsten}, Rosander, Lopes, Santos-Victor, Bernardino \&
+  Montesano}]{Metta2010ICub}
+{\sc Metta, G., Natale, L., Nori, F., Sandini, G., Vernon, D., Fadiga, L., {von
+  Hofsten}, C., Rosander, K., Lopes, M., Santos-Victor, J., Bernardino, A. \&
+  Montesano, L.} (2010). The {iCub} humanoid robot: An open-systems platform
+  for research in cognitive development. {\em Neural Networks\/}, {\bf 23},
+  1125--1134.
+
+\bibitem[{Mihhailov {\em et~al.\/}(2025)Mihhailov, Hou \&
+  Baraka}]{Mihhailov2025GuideUnexpected}
+{\sc Mihhailov, K., Hou, M. \& Baraka, K.} (2025). {Guide Me Through the
+  Unexpected}: Investigating how deviation from expectation affects human
+  teaching and robot learning. In {\em 2025 34th IEEE International Conference
+  on Robot and Human Interactive Communication (RO-MAN)\/}, 959--965, IEEE.
+
+\bibitem[{Moerland {\em et~al.\/}(2018)Moerland, Broekens \&
+  Jonker}]{Moerland2018EmotionRL}
+{\sc Moerland, T.M., Broekens, J. \& Jonker, C.M.} (2018). Emotion in
+  reinforcement learning agents and robots: A survey. {\em Machine Learning\/},
+  {\bf 107}, 443--480, published online 25 August 2017.
+
+\bibitem[{Mongile(2025)}]{Mongile2025ComfortDriven}
+{\sc Mongile, S.} (2025). {\em Towards Adaptive Human-Robot Interaction: A
+  Comfort-Driven Architecture for Social Robots\/}. Phd thesis, University of
+  Genoa.
+
+\bibitem[{Morasso(2026)}]{Morasso2026BioInspiredCognitive}
+{\sc Morasso, P.} (2026). Bio-inspired cognitive robotics vs. embodied {AI} for
+  socially acceptable, civilized robots. {\em Frontiers in Robotics and AI\/},
+  {\bf 13}, 1714310.
+
+\bibitem[{Moulin-Frier {\em et~al.\/}(2018)Moulin-Frier, Fischer, Petit,
+  Pointeau, Puigbo, Pattacini, Low, Camilleri, Nguyen, Hoffmann, Chang,
+  Zambelli, Mealier, Damianou, Metta, Prescott, Demiris, Dominey \&
+  Verschure}]{MoulinFrier2018DACH3}
+{\sc Moulin-Frier, C., Fischer, T., Petit, M., Pointeau, G., Puigbo, J.Y.,
+  Pattacini, U., Low, S.C., Camilleri, D., Nguyen, P., Hoffmann, M., Chang,
+  H.J., Zambelli, M., Mealier, A.L., Damianou, A., Metta, G., Prescott, T.J.,
+  Demiris, Y., Dominey, P.F. \& Verschure, P.F.M.J.} (2018). {DAC-h3}: A
+  proactive robot cognitive architecture to acquire and express knowledge about
+  the world and the self. {\em IEEE Transactions on Cognitive and Developmental
+  Systems\/}, {\bf 10}, 1005--1022.
+
+\bibitem[{Mur-Labadia {\em et~al.\/}(2026)Mur-Labadia, Muckley, Bar, Assran,
+  Sinha, Rabbat, LeCun, Ballas \& Bardes}]{MurLabadia2026VJEPA21}
+{\sc Mur-Labadia, L., Muckley, M., Bar, A., Assran, M., Sinha, K., Rabbat, M.,
+  LeCun, Y., Ballas, N. \& Bardes, A.} (2026). {V-JEPA} 2.1: Unlocking dense
+  features in video self-supervised learning. {\em arXiv preprint
+  arXiv:2603.14482\/}.
+
+\bibitem[{Newman {\em et~al.\/}(2025)Newman, Senadji, White \&
+  Fookes}]{Newman2025EmpathyLongTerm}
+{\sc Newman, M.S., Senadji, B., White, K.M. \& Fookes, C.} (2025). Empathy in
+  long-term human--robot interaction: A scoping review of emotion
+  understanding. {\em International Journal of Social Robotics\/}, {\bf 17},
+  191--210, published online 24 December 2024.
+
+\bibitem[{Ngo(2021)}]{Ngo2021DesertReptiles}
+{\sc Ngo, T.} (2021). {\em Homeostatic and Allostatic Principles for Behavioral
+  Regulation in Desert Reptiles: A Robotic Evaluation\/}. Master's thesis,
+  Universitat Pompeu Fabra, supervised by Oscar Guerrero Rosado and Ismael T.
+  Freire.
+
+\bibitem[{Nomura {\em et~al.\/}(2006)Nomura, Suzuki, Kanda \&
+  Kato}]{Nomura2006NARS}
+{\sc Nomura, T., Suzuki, T., Kanda, T. \& Kato, K.} (2006). Measurement of
+  negative attitudes toward robots. {\em Interaction Studies\/}, {\bf 7},
+  437--454.
+
+\bibitem[{Park \& Whang(2022)}]{Park2022Empathy}
+{\sc Park, S. \& Whang, M.} (2022). Empathy in human--robot interaction:
+  Designing for social robots. {\em International Journal of Environmental
+  Research and Public Health\/}, {\bf 19}, 1889.
+
+\bibitem[{Pasquali {\em et~al.\/}(2024)Pasquali, Miceli, Belgiovine, Rea,
+  Mastrogiovanni, Sandini \& Sciutti}]{Pasquali2024ArtificialCognition}
+{\sc Pasquali, D., Miceli, C., Belgiovine, G., Rea, F., Mastrogiovanni, F.,
+  Sandini, G. \& Sciutti, A.} (2024). Artificial cognition, from the ground up.
+
+\bibitem[{Pasquali {\em et~al.\/}(2025)Pasquali, Garello, Belgiovine,
+  Eldardeer, Lastrico, Rea, Mastrogiovanni, Sandini \&
+  Sciutti}]{Pasquali2025AlwaysOn}
+{\sc Pasquali, D., Garello, L., Belgiovine, G., Eldardeer, O., Lastrico, L.,
+  Rea, F., Mastrogiovanni, F., Sandini, G. \& Sciutti, A.} (2025). No robot is
+  an island: An always-on cognitive architecture for social context awareness
+  in dynamic environments. In {\em 2025 IEEE International Conference on
+  Development and Learning (ICDL)\/}, 1--8, IEEE.
+
+\bibitem[{Pasquali {\em et~al.\/}(2026)Pasquali, Rea, Morasso, Sandini \&
+  Sciutti}]{Pasquali2026ISEED}
+{\sc Pasquali, D., Rea, F., Morasso, P., Sandini, G. \& Sciutti, A.} (2026).
+  {ISEED}: An always-on cognitive architecture for experience-driven
+  interaction-oriented humanoid robots. {\em Frontiers in Neurorobotics\/},
+  {\bf 20}, 1920808.
+
+\bibitem[{Patompak {\em et~al.\/}(2020)Patompak, Jeong, Nilkhamhang \&
+  Chong}]{Patompak2020Proxemics}
+{\sc Patompak, P., Jeong, S., Nilkhamhang, I. \& Chong, N.Y.} (2020). Learning
+  proxemics for personalized human-robot social interaction. {\em International
+  Journal of Social Robotics\/}, {\bf 12}, 267--280, published online 25 May
+  2019.
+
+\bibitem[{{Pekarek Rosin} {\em et~al.\/}(2025){Pekarek Rosin}, Hassouna, Sun,
+  Krohm, Kordt, Beetz \& Wermter}]{PekarekRosin2025DiverseUsers}
+{\sc {Pekarek Rosin}, T., Hassouna, V., Sun, X., Krohm, L., Kordt, H.L., Beetz,
+  M. \& Wermter, S.} (2025). A framework for adapting human-robot interaction
+  to diverse user groups. In {\em Social Robotics\/}, vol. 15563 of {\em
+  Lecture Notes in Artificial Intelligence\/}, 24--38, Springer Nature
+  Singapore.
+
+\bibitem[{Petzschner {\em et~al.\/}(2021)Petzschner, Garfinkel, Paulus, Koch \&
+  Khalsa}]{Petzschner2021Interoception}
+{\sc Petzschner, F.H., Garfinkel, S.N., Paulus, M.P., Koch, C. \& Khalsa, S.S.}
+  (2021). Computational models of interoception and body regulation. {\em
+  Trends in Neurosciences\/}, {\bf 44}, 63--76.
+
+\bibitem[{Pezzulo {\em et~al.\/}(2024)Pezzulo, Parr \&
+  Friston}]{Pezzulo2024ActiveInference}
+{\sc Pezzulo, G., Parr, T. \& Friston, K.} (2024). Active inference as a theory
+  of sentient behavior. {\em Biological Psychology\/}, {\bf 186}, 108741.
+
+\bibitem[{Pinto-Bernal {\em et~al.\/}(2025)Pinto-Bernal, Biondina \&
+  Belpaeme}]{PintoBernal2025Designing}
+{\sc Pinto-Bernal, M., Biondina, M. \& Belpaeme, T.} (2025). Designing social
+  robots with llms for engaging human interaction. {\em Applied Sciences\/},
+  {\bf 15}, 6377.
+
+\bibitem[{Raggioli {\em et~al.\/}(2025)Raggioli, D'Asaro \&
+  Rossi}]{Raggioli2025ApproachingBehavior}
+{\sc Raggioli, L., D'Asaro, F.A. \& Rossi, S.} (2025). Deep reinforcement
+  learning for robotic approaching behavior influenced by user activity and
+  disengagement. {\em International Journal of Social Robotics\/}, {\bf 17},
+  903--915, published online 7 September 2023.
+
+\bibitem[{Rodr{\'i}guez \& Ramos(2015)}]{RodriguezRamos2015Emotions}
+{\sc Rodr{\'i}guez, L.F. \& Ramos, F.} (2015). Computational models of emotions
+  for autonomous agents: Major challenges. {\em Artificial Intelligence
+  Review\/}, {\bf 43}, 437--465, published online 29 December 2012.
+
+\bibitem[{Rosado {\em et~al.\/}(2022)Rosado, Amil, Freire \&
+  Verschure}]{Rosado2022DriveCompetition}
+{\sc Rosado, O.G., Amil, A.F., Freire, I.T. \& Verschure, P.F.M.J.} (2022).
+  Drive competition underlies effective allostatic orchestration. {\em
+  Frontiers in Robotics and AI\/}, {\bf 9}, 1052998.
+
+\bibitem[{Sandini {\em et~al.\/}(2007)Sandini, Metta \&
+  Vernon}]{Sandini2007ICubCognitive}
+{\sc Sandini, G., Metta, G. \& Vernon, D.} (2007). The {iCub} cognitive
+  humanoid robot: An open-system research platform for enactive cognition. In
+  M.~Lungarella, F.~Iida, J.~Bongard \& R.~Pfeifer, eds., {\em 50 Years of
+  Artificial Intelligence\/}, Lecture Notes in Computer Science, 358--369,
+  Springer Berlin Heidelberg.
+
+\bibitem[{Sandini {\em et~al.\/}(2025)Sandini, Sciutti \&
+  Morasso}]{Sandini2025MutualUnderstanding}
+{\sc Sandini, G., Sciutti, A. \& Morasso, P.} (2025). Mutual human-robot
+  understanding for a robot-enhanced society: The crucial development of shared
+  embodied cognition. {\em Frontiers in Artificial Intelligence\/}, {\bf 8},
+  1608014.
+
+\bibitem[{Saunderson \& Nejat(2019)}]{Saunderson2019Nonverbal}
+{\sc Saunderson, S. \& Nejat, G.} (2019). How robots influence humans: A survey
+  of nonverbal communication in social human--robot interaction. {\em
+  International Journal of Social Robotics\/}, {\bf 11}, 575--608.
+
+\bibitem[{Scheunemann {\em et~al.\/}(2022)Scheunemann, Salge, Polani \&
+  Dautenhahn}]{Scheunemann2022IntrinsicallyMotivated}
+{\sc Scheunemann, M.M., Salge, C., Polani, D. \& Dautenhahn, K.} (2022). Human
+  perception of intrinsically motivated autonomy in human-robot interaction.
+  {\em Adaptive Behavior\/}, {\bf 30}, 451--472.
+
+\bibitem[{Schulkin \& Sterling(2019)}]{SchulkinSterling2019Allostasis}
+{\sc Schulkin, J. \& Sterling, P.} (2019). Allostasis: A brain-centered,
+  predictive mode of physiological regulation. {\em Trends in Neurosciences\/},
+  {\bf 42}, 740--752.
+
+\bibitem[{Senft {\em et~al.\/}(2019)Senft, Lemaignan, Baxter, Bartlett \&
+  Belpaeme}]{Senft2019SocialAutonomy}
+{\sc Senft, E., Lemaignan, S., Baxter, P.E., Bartlett, M. \& Belpaeme, T.}
+  (2019). Teaching robots social autonomy from in situ human guidance. {\em
+  Science Robotics\/}, {\bf 4}, eaat1186.
+
+\bibitem[{Shaghaghi {\em et~al.\/}(2024)Shaghaghi, Aliasghari, Tripp, Anderson,
+  Dautenhahn \& Nehaniv}]{Shaghaghi2024SocialGazeSpace}
+{\sc Shaghaghi, S., Aliasghari, P., Tripp, B., Anderson, B., Dautenhahn, K. \&
+  Nehaniv, C.L.} (2024). Towards an interaction architecture for the {iCub}
+  robot: Social gaze space model adaptation for social interaction. In {\em
+  2024 IEEE-RAS 23rd International Conference on Humanoid Robots
+  (Humanoids)\/}, 295--302, IEEE.
+
+\bibitem[{Sloman \& Chappell(2005)}]{Sloman2005Altricial}
+{\sc Sloman, A. \& Chappell, J.} (2005). The altricial-precocial spectrum for
+  robots. In {\em Proceedings of the 19th International Joint Conference on
+  Artificial Intelligence (IJCAI)\/}, 1187--1192, Morgan Kaufmann, Edinburgh,
+  UK.
+
+\bibitem[{Stange {\em et~al.\/}(2022)Stange, Hassan, Schr{\"o}der, Konkol \&
+  Kopp}]{Stange2022SelfExplaining}
+{\sc Stange, S., Hassan, T., Schr{\"o}der, F., Konkol, J. \& Kopp, S.} (2022).
+  Self-explaining social robots: An explainable behavior generation
+  architecture for human-robot interaction. {\em Frontiers in Artificial
+  Intelligence\/}, {\bf 5}, 866920.
+
+\bibitem[{Sterling(2012)}]{Sterling2012Allostasis}
+{\sc Sterling, P.} (2012). Allostasis: A model of predictive regulation. {\em
+  Physiology and Behavior\/}, {\bf 106}, 5--15.
+
+\bibitem[{Tanevska {\em et~al.\/}(2020)Tanevska, Rea, Sandini, Ca{\~n}amero \&
+  Sciutti}]{Tanevska2020SociallyAdaptable}
+{\sc Tanevska, A., Rea, F., Sandini, G., Ca{\~n}amero, L. \& Sciutti, A.}
+  (2020). A socially adaptable framework for human-robot interaction. {\em
+  Frontiers in Robotics and AI\/}, {\bf 7}, 121.
+
+\bibitem[{Thompson {\em et~al.\/}(2024)Thompson, Lew, Phanse, Huang, Stanish,
+  Li \& V{\'a}zquez}]{Thompson2024PARD}
+{\sc Thompson, S., Lew, A., Phanse, R., Huang, A., Stanish, E., Li, Y. \&
+  V{\'a}zquez, M.} (2024). Predicting human intent to interact with a public
+  robot: The people approaching robots database ({PAR-D}). In {\em
+  International Conference on Multimodal Interaction\/}, 536--545, ACM, New
+  York, NY, iCMI '24, November 4--8, 2024, San Jose, Costa Rica.
+
+\bibitem[{Tian {\em et~al.\/}(2026)Tian, Li, Xu, Dong, Wang \&
+  Shen}]{Tian2026ROMA}
+{\sc Tian, X., Li, W., Xu, B., Dong, H., Wang, Y. \& Shen, H.} (2026). {ROMA}:
+  Real-time omni-multimodal assistant with interactive streaming understanding.
+
+\bibitem[{Tinbergen(1951)}]{Tinbergen1951Instinct}
+{\sc Tinbergen, N.} (1951). {\em The Study of Instinct\/}. Oxford University
+  Press, New York, NY.
+
+\bibitem[{Tong {\em et~al.\/}(2022)Tong, Song, Wang \& Wang}]{Tong2022VideoMAE}
+{\sc Tong, Z., Song, Y., Wang, J. \& Wang, L.} (2022). {VideoMAE}: Masked
+  autoencoders are data-efficient learners for self-supervised video
+  pre-training. In {\em Advances in Neural Information Processing Systems\/},
+  vol.~35, 10078--10093.
+
+\bibitem[{Vernon(2014)}]{Vernon2014Artificial}
+{\sc Vernon, D.} (2014). {\em Artificial Cognitive Systems: A Primer\/}. MIT
+  Press, Cambridge, MA.
+
+\bibitem[{Wang {\em et~al.\/}(2024)Wang, Hasler, Tanneberg, Ocker, Joublin,
+  Ceravola, Deigmoeller \& Gienger}]{Wang2024LaMI}
+{\sc Wang, C., Hasler, S., Tanneberg, D., Ocker, F., Joublin, F., Ceravola, A.,
+  Deigmoeller, J. \& Gienger, M.} (2024). {LaMI}: Large language models for
+  multi-modal human-robot interaction. In {\em Extended Abstracts of the CHI
+  Conference on Human Factors in Computing Systems\/}, 1--10, ACM.
+
+\bibitem[{Wang(2026a)}]{Wang2026HumanModalities}
+{\sc Wang, R.} (2026a). Human modalities in human-robot interaction: A review
+  from multimodal and foundation model perspectives. TechRxiv preprint posted
+  26 February 2026.
+
+\bibitem[{Wang {\em et~al.\/}(2025)Wang, Zhao, Suh, Yuan, Chen \&
+  Min}]{Wang2025PreferenceAction}
+{\sc Wang, R., Zhao, D., Suh, D., Yuan, Z., Chen, G. \& Min, B.C.} (2025).
+  Personalization in human-robot interaction through preference-based action
+  representation learning. In {\em 2025 IEEE International Conference on
+  Robotics and Automation (ICRA)\/}, 7377--7384, IEEE.
+
+\bibitem[{Wang {\em et~al.\/}(2026b)Wang, Xu, Nikolova, Wang, Wang, Wang \&
+  Tong}]{Wang2026LLMHRISystematic}
+{\sc Wang, Y., Xu, Y., Nikolova, A., Wang, Y., Wang, J., Wang, C. \& Tong, X.}
+  (2026b). How do we research human-robot interaction in the age of large
+  language models? a systematic review. In {\em Proceedings of the 2026 CHI
+  Conference on Human Factors in Computing Systems\/}, 1--28, ACM.
+
+\bibitem[{Yoshida {\em et~al.\/}(2025)Yoshida, Sprekeler \&
+  Gutkin}]{Yoshida2025HomeostasisRL}
+{\sc Yoshida, N., Sprekeler, H. \& Gutkin, B.} (2025). Linking homeostasis to
+  reinforcement learning: Internal state control of motivated behavior. {\em
+  Current Opinion in Behavioral Sciences\/}, {\bf 66}, 101611.
+
+\bibitem[{Zhang {\em et~al.\/}(2022)Zhang, Sun, Jiang, Yu, Weng, Yuan, Luo, Liu
+  \& Wang}]{Zhang2022ByteTrack}
+{\sc Zhang, Y., Sun, P., Jiang, Y., Yu, D., Weng, F., Yuan, Z., Luo, P., Liu,
+  W. \& Wang, X.} (2022). {ByteTrack}: Multi-object tracking by associating
+  every detection box. In {\em Computer Vision -- ECCV 2022\/}, 1--21, Springer
+  Nature Switzerland.
+
+\end{thebibliography}

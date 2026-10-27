@@ -1,0 +1,104 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}The always-on cognitive architecture inherited by this thesis}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}The global cognitive loop and modular architecture}{4}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Ecological validation and emergent context awareness}{5}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}An embodied behaviour architecture for drive-guided action}{7}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Homeostasis and the synthetic orexigenic drive}{8}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Contributions}{9}{section.1.4}%
+\contentsline {paragraph}{An adaptable embodied behaviour architecture.}{9}{section*.5}%
+\contentsline {paragraph}{An operational value system.}{9}{section*.6}%
+\contentsline {paragraph}{Action selection and loop closure.}{9}{section*.7}%
+\contentsline {paragraph}{Outcome-grounded social adaptation.}{9}{section*.8}%
+\contentsline {section}{\numberline {1.5}Research questions}{9}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Structure of the thesis}{10}{section.1.6}%
+\contentsline {chapter}{\numberline {2}State of the Art}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Social cognition, interactional legibility, and non-verbal design}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Cognitive architectures for embodied and socially embedded agents}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Attention, salience, and engagement selection}{15}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Adaptation, memory, mutual learning, and personalisation}{16}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Multimodal grounding and foundation-model-based HRI}{18}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Homeostasis, allostasis, and drive-based artificial motivation}{19}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Social expression and explanation of internal robot states}{22}{section.2.7}%
+\contentsline {section}{\numberline {2.8}The iCub ecosystem for cognitive and interaction architectures}{23}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Methodology}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Architecture}{25}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Design rationale}{26}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Functional organisation}{26}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Coupling to always-on context memory}{27}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Multimodal perception and person-centred scene representation}{29}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Perceptual objective}{29}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Face localisation, tracking and identity}{30}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Head pose and gaze alignment}{30}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Auditory and regulatory event streams}{31}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Salience-based attention selection and embodied gaze control}{31}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}From perceptual availability to interaction priority}{31}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Social-state and affinity-dependent eligibility}{32}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Habituation, hysteresis and target stability}{33}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Embodied target execution}{33}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Executive control: social-state orchestration and drive-gated behaviour logic}{34}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Interaction ownership and trigger modes}{34}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Social state as interaction history}{35}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Drive-gated behavioural policy}{35}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Language-model instantiation}{35}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3.5}Orexigenic homeostasis, homeostatic affinity learning, and adaptive social memory}{37}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Synthetic orexigenic drive}{37}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Meal detection and attribution}{37}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Homeostatic reward and affinity learning}{38}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}Remote interaction and human-mediated homeostatic loop closure}{39}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Remote extension and prompt grounding}{39}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Stable transitions and proactive outreach}{39}{subsection.3.6.2}%
+\contentsline {section}{\numberline {3.7}Experimental design and procedure}{40}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Study design and deployment}{40}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Participants and role conditions}{41}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Questionnaire instruments and ethics}{42}{subsection.3.7.3}%
+\contentsline {subsection}{\numberline {3.7.4}Statistical framework and inference}{42}{subsection.3.7.4}%
+\contentsline {chapter}{\numberline {4}Results}{45}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Analytical scope}{45}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Operational performance}{46}{section.4.2}%
+\contentsline {section}{\numberline {4.3}RQ1: Homeostatic functions}{46}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Monitoring and deficit detection}{46}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}From deficit to action}{46}{subsection.4.3.2}%
+\contentsline {paragraph}{Answer to RQ1.}{47}{section*.9}%
+\contentsline {section}{\numberline {4.4}RQ2: Recovery-oriented engagement and replenishment}{47}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Feeding in response to deficit}{47}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Meal choice under deficit}{49}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Starving episodes and observed occupancy}{49}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Remote signalling}{51}{subsection.4.4.4}%
+\contentsline {paragraph}{Answer to RQ2.}{52}{section*.10}%
+\contentsline {section}{\numberline {4.5}RQ3: Adaptive regulatory memory and its expression}{52}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Affinity update verification}{52}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Expression in recorded eligibility decisions}{52}{subsection.4.5.2}%
+\contentsline {paragraph}{Answer to RQ3.}{53}{section*.11}%
+\contentsline {section}{\numberline {4.6}RQ4: Perceived naturalness and social embeddedness}{54}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}General perception of the robot}{54}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Interpretation of the orexigenic drive}{56}{subsection.4.6.2}%
+\contentsline {paragraph}{Answer to RQ4.}{57}{section*.12}%
+\contentsline {chapter}{\numberline {5}Discussion}{58}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Recovery depended on who was present}{58}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Attention and regulatory memory}{59}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Effective but not credible}{59}{section.5.3}%
+\contentsline {section}{\numberline {5.4}How far the loop closed, and where this sits}{60}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Limitations}{61}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{62}{chapter.6}%
+\contentsline {section}{\numberline {6.1}What was asked and what was built}{62}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Verdict on the research questions}{62}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Contribution and broader impact}{63}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Future work}{63}{section.6.4}%
+\contentsline {chapter}{\numberline {A}Language-Model Prompts}{66}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Embodied dialogue}{66}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Remote dialogue on Telegram}{68}{section.A.2}%
+\contentsline {chapter}{\numberline {B}Questionnaire Items}{72}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Pre-experiment questionnaire}{72}{section.B.1}%
+\contentsline {paragraph}{About you.}{72}{section*.20}%
+\contentsline {paragraph}{Views on robots.}{72}{section*.21}%
+\contentsline {section}{\numberline {B.2}Post-interaction questionnaire}{73}{section.B.2}%
+\contentsline {paragraph}{Impression of the robot.}{73}{section*.22}%
+\contentsline {paragraph}{Words associated with the robot.}{73}{section*.23}%
+\contentsline {paragraph}{Experience of the robot.}{73}{section*.24}%
+\contentsline {paragraph}{In your own words.}{73}{section*.25}%
+\contentsline {chapter}{\numberline {C}Feeding Model Terms}{74}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Implementation Reference}{75}{appendix.D}%
+\contentsline {section}{\numberline {D.1}Vision-module output}{75}{section.D.1}%
+\contentsline {section}{\numberline {D.2}Controller constants}{75}{section.D.2}%
+\contentsline {chapter}{References}{77}{section*.26}%

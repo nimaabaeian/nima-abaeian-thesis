@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.10.1)  27 OCT 2026 15:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.10.1)  28 OCT 2026 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1023,7 +1023,7 @@ Package rerunfilecheck Info: File `Nima_Abaeian_Thesis.brf' has not changed.
 Here is how much of TeX's memory you used:
  19740 strings out of 469438
  394802 string characters out of 5468410
- 815622 words of memory out of 5000000
+ 814622 words of memory out of 5000000
  47604 multiletter control sequences out of 15000+600000
  649755 words of font info for 121 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
@@ -1061,7 +1061,7 @@ cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 t10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Nima_Abaeian_Thesis.pdf (93 pages, 12807141 bytes).
+Output written on Nima_Abaeian_Thesis.pdf (93 pages, 12807100 bytes).
 PDF statistics:
  1990 PDF objects out of 2073 (max. 8388607)
  1775 compressed objects within 18 object streams
